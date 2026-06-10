@@ -1,8 +1,7 @@
 # lstd
 Experimental Luau Standard Library Project
-Standard Version: 2026.06.09
-Last updated: 2026.06.10
-    
+
+--[[
     Internal name: stdlib, lstd, lstd++, std.hpp, LuauStandard
     
     Version 2026.06.09:
@@ -24,3 +23,4 @@ Last updated: 2026.06.10
         Planned: additions to Profiling, Algorithms, Containers, Utilities
     Version 2027.01.??:
         Planned: new modules, new features
+]]
