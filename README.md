@@ -1,6 +1,7 @@
-# lstd
-Experimental Luau Standard Library Project
-
+# lstd++
+# A Luau Standard Library project by me
+    Internal name: stdlib, lstd, lstd++, std.hpp, LuauStandard
+    
     Version 2026.06.09:
         Whats changed:
             Epoch: now its Modern-Standard, all versions before June 2026 - Legacy-Standard.
